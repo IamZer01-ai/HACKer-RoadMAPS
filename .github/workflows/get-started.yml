@@ -1,0 +1,22 @@
+name: Repository checks
+
+on:
+  push:
+    branches: [main, personalize-roadmaps]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Confirm key files exist
+        run: |
+          test -s README.md
+          test -s docs/index.md
+          test -s LICENSE
+          test -s resources/banner.svg
+          echo "Repository files are present."
