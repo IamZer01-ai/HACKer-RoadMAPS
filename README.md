@@ -58,6 +58,23 @@ Tools are for learning and authorized assessment. A tool result is not automatic
 - **[Cyber Sentinel](https://github.com/IamZer01-ai/IamZer01-Sentinel)** — a cybersecurity/SOC platform project.
 - **[GitHub profile](https://github.com/IamZer01-ai)** — additional projects and learning notes.
 
+## Curated cybersecurity roadmaps and reference collections
+
+The following projects are maintained by **[Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**. The summaries below are rewritten descriptions; the links point to the original repositories so readers can consult the author's current material.
+
+| Roadmap / Resource | Main coverage | Scale and notable resources | Original repository |
+|---|---|---|---|
+| **The BlackHAT Roadmap** | A multi-phase offensive-security and systems curriculum covering foundations, web and network security, low-level systems, reverse engineering, specialized security topics, and operational security concepts. | The repository describes 8 phases, 44,900+ lines of curriculum, 300+ catalogued tools, 200+ MITRE ATT&CK techniques, and 150+ diagrams. | [SagarBiswas-MultiHAT/The-BlackHAT-roadmap](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap) |
+| **Penetration Testing Roadmap** | A structured learning path for penetration testing, ethical hacking, web and network security, practical labs, tools, and professional development. | 60-week curriculum, 500+ TryHackMe rooms, learning plans, tools directory, and certification guidance. | [SagarBiswas-MultiHAT/penetration-testing-roadmap](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap) |
+| **Awesome Cybersecurity Paths** | Career-oriented guidance for offensive security, defensive security, SOC operations, incident response, threat hunting, and governance, risk, and compliance (GRC). | 35 cybersecurity roles, 100+ tools mapped to roles, certification guidance, and 10 cybersecurity architecture examples. | [SagarBiswas-MultiHAT/awesome-cybersecurity-paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths) |
+| **Awesome Cybersecurity Books** | A categorized reading collection spanning cybersecurity foundations, penetration testing, web and network security, reverse engineering, malware analysis, defensive security, and secure coding. | 70+ books organized by subject and difficulty, with suggested learning paths. | [SagarBiswas-MultiHAT/awesome-cybersecurity-books](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books) |
+
+**Original author:** [Sagar Biswas on GitHub](https://github.com/SagarBiswas-MultiHAT)
+
+**Attribution and licensing:** These are independent projects owned and maintained by their original author. This repository provides brief summaries and links, not copies of their full curriculum or book lists. Review the licence file in each original repository before copying, adapting, or redistributing any of its material. Where a licence requires attribution or share-alike terms, follow those requirements and identify your changes.
+
+---
+
 ## How to use the roadmaps
 
 Each topic should answer four questions:
